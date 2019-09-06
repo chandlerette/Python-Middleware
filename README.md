@@ -75,7 +75,7 @@ API User Guide
 * [Remove the private key in the wallet](#Remove-the-private-key-in-the-wallet)
 * [Encrypt wallet private key](#Encrypt-wallet-private-key)
 * [Decrypt wallet private key](#Decrypt-wallet-private-key)
-* [Get owner/active/memo private key](#Get-owner-active-memo-private-key)
+* [Get owner/active/memo private key](#Get-owner\/\active\/\memo-private-key)
 * [Get account ID through private key](#Get-account-ID-through-private-key)
 * [Get account ID through public key](#Get-account-ID-through-public-key)
 * [Get account info](#Get-account-info)
@@ -85,7 +85,7 @@ API User Guide
 * [Wipe the private key in the wallet](#Wipe-the-private-key-in-the-wallet)
 
 
-#### Create a wallet by Graphene 
+#### Create a wallet with Graphene 
     Method: newWallet(pwd)
     Function: Create a wallet
     Parameters: pwd: str type, wallet lock and unlock password
